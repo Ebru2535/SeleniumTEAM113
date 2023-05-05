@@ -37,6 +37,7 @@ public class C02_findElements {
              ) {
             System.out.println(eachElement.getText() +" ");
         }
+        System.out.println(categoryElementsList.get(1).getText());
         //6- Sayfayi kapatin
         Thread.sleep(3000);
         driver.close();

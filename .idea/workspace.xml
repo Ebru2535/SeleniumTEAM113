@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c32111d4-0ad4-4f4d-ab06-ef6473e2132e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locartos/C03_WebElementMethodlari.java" afterDir="false" />
+    <list default="true" id="c32111d4-0ad4-4f4d-ab06-ef6473e2132e" name="Changes" comment=" 04/05/2023">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStudy/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStudy/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStudy/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStudy/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStudy/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssSelector/C01_Locator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssSelector/C02_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssSelector/C03_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssSelector/C04_CssSelector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locartos/C01_Locator_findElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_locartos/C01_Locator_findElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locartos/C02_findElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_locartos/C02_findElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MyStudy/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MyStudy/Test1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "C:/Desktop/com.seleniumTeam113/src/resources/selenium-java-4.9.0/lib/slf4j-api-2.0.7.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Desktop/com.seleniumTeam113/src/resources/selenium-java-4.9.0/lib/slf4j-api-2.0.7.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Desktop\com.seleniumTeam113\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1">
-    <configuration name="C01_DriverGetMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_DriverMethodlari.C01_DriverGetMethodlari" />
+  <component name="RunManager" selected="Application.Test6">
+    <configuration name="Ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStudy.Ornek" />
       <module name="com.seleniumTeam113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_DriverMethodlari.*" />
+          <option name="PATTERN" value="MyStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebDriverilkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_driverOlusturma.C01_WebDriverilkClass" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStudy.Test3" />
       <module name="com.seleniumTeam113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_driverOlusturma.*" />
+          <option name="PATTERN" value="MyStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_DriverMethodlari.C02_IlkTest" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStudy.Test4" />
       <module name="com.seleniumTeam113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_DriverMethodlari.*" />
+          <option name="PATTERN" value="MyStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_DriverManageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_DriverMethodlari.C03_DriverManageMethodlari" />
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStudy.Test5" />
       <module name="com.seleniumTeam113" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_DriverMethodlari.*" />
+          <option name="PATTERN" value="MyStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyStudy.Test1" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStudy.Test6" />
       <module name="com.seleniumTeam113" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.C01_WebDriverilkClass" />
-        <item itemvalue="Application.C03_DriverManageMethodlari" />
-        <item itemvalue="Application.C01_DriverGetMethodlari" />
-        <item itemvalue="Application.C02_IlkTest" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Ornek" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +150,19 @@
       <option name="presentableId" value="Default" />
       <updated>1682971370042</updated>
     </task>
+    <task id="LOCAL-00001" summary=" 04/05/2023">
+      <created>1683181125394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683181125394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" 04/05/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 04/05/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -148,6 +171,15 @@
           <url>file://$PROJECT_DIR$/src/test/java/day02_DriverMethodlari/C02_IlkTest.java</url>
           <line>30</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/MyStudy/Test6.java</url>
+          <line>22</line>
+          <properties class="MyStudy.Test6" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -32,6 +32,7 @@ public class C01_Locator_findElement {
         // Enter tusuna basarak arama yapin
         aramaKutusuElementi.submit();
         // istenen web elementi uzerinde enter tusuna basar
+
         Thread.sleep(7000);
         driver.close();
     }
